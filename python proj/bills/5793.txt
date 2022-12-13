@@ -1,0 +1,17 @@
+	Welcome to Our Resturant
+
+Bill Number			:5793
+Customer Name			:Suman
+Phone  Number			:8827881239
+========================================
+Items		QTY	Price
+========================================
+ Cold Drink		2		80
+ Pizza		2		700
+ Fries		2		180
+------------------------------------
+Beverages Tax		Rs. 4.0
+Snacks Tax		Rs. 88.0
+Food Tax		Rs. 0.0
+Total Bill   :		Rs. 1052.0
+------------------------------------

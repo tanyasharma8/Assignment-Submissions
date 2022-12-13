@@ -1,0 +1,16 @@
+	Welcome to Our Resturant
+
+Bill Number    :9709
+Customer Name  :Shubam
+Phone  Number  :9876567898
+####################################
+Items		QTY	Price
+####################################
+Mojito		1		150
+ Sandwich		2		160
+------------------------------------
+Beverages Tax		Rs. 7.5
+Snacks Tax		Rs. 16.0
+Food Tax		Rs. 0.0
+Total Bill   :		Rs. 333.5
+------------------------------------

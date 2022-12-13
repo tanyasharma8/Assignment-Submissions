@@ -1,0 +1,15 @@
+	Welcome to Our Resturant
+
+Bill Number    :5457
+Customer Name  :tsh
+Phone  Number  :987
+####################################
+Items		QTY	Price
+####################################
+ Pasta		4		800
+------------------------------------
+Beverages Tax		Rs. 0.0
+Snacks Tax		Rs. 80.0
+Food Tax		Rs. 0.0
+Total Bill   :		Rs. 880.0
+------------------------------------

@@ -1,0 +1,17 @@
+	Welcome to Our Resturant
+
+Bill Number			:5993
+Customer Name			:Sanjana
+Phone  Number			:8975367896
+========================================
+Items		QTY	Price
+========================================
+ Cold Drink		2		80
+ Pasta		2		400
+ Fries		1		90
+------------------------------------
+Beverages Tax		Rs. 4.0
+Snacks Tax		Rs. 49.0
+Food Tax		Rs. 0.0
+Total Bill   :		Rs. 623.0
+------------------------------------
