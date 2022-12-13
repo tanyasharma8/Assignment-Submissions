@@ -1,0 +1,16 @@
+	Welcome to Our Resturant
+
+Bill Number    :4616
+Customer Name  :Samridhi
+Phone  Number  :8889877877
+####################################
+Items		QTY	Price
+####################################
+ Tea		1		50
+ Fries		1		90
+------------------------------------
+Beverages Tax		Rs. 2.5
+Snacks Tax		Rs. 9.0
+Food Tax		Rs. 0.0
+Total Bill   :		Rs. 151.5
+------------------------------------

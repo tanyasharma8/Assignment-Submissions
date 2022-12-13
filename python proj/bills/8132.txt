@@ -1,0 +1,16 @@
+	Welcome to Our Resturant
+
+Bill Number    :8132
+Customer Name  :Vanshita
+Phone  Number  :9988771234
+####################################
+Items		QTY	Price
+####################################
+ Cold Drink		3		120
+ Pizza		2		700
+------------------------------------
+Beverages Tax		Rs. 6.0
+Snacks Tax		Rs. 70.0
+Food Tax		Rs. 0.0
+Total Bill   :		Rs. 896.0
+------------------------------------

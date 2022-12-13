@@ -1,0 +1,17 @@
+	Welcome to Our Resturant
+
+Bill Number			:3191
+Customer Name			:VANSHITA
+Phone  Number			:888656787544
+========================================
+Items		QTY	Price
+========================================
+Mojito		1		150
+ Pasta		10		2000
+ Fries		10		900
+------------------------------------
+Beverages Tax		Rs. 7.5
+Snacks Tax		Rs. 290.0
+Food Tax		Rs. 0.0
+Total Bill   :		Rs. 3347.5
+------------------------------------
